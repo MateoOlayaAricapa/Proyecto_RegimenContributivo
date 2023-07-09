@@ -13,4 +13,4 @@ Se utilizó el IDE de Netbeans, Java, Rest API, MySQL, Base de datos relacionale
 * LinkedIn: www.linkedin.com/in/mateoolayaaricapa
 
 ## Ejemplo en vivo:
-* YouTube: 
+* YouTube: https://youtu.be/78CeVQxZXuU
